@@ -1,0 +1,82 @@
+---
+title: "Bryana A.S. Thieret"
+image: avatar.JPEG
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "www.linkedin.com/in/bryana-thieret-46a941232"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/bryanathieret"
+    - text: Email
+      url: "bathie20@stlawu.edu"
+    - text: CV
+      url: "CV.pdf"
+    - text: ORCID
+      url: "https://orcid.org/0009-0000-8156-9722"
+    - text: Google Scholar
+      url: "https://scholar.google.com/citations?user=ZDVaphkAAAAJ&hl=en"
+    - text: ResearchGate
+      url: "https://www.researchgate.net/profile/Bryana-Thieret"
+comments: false
+---
+
+## About
+
+I am a senior at St. Lawrence University majoring in Psychology and Statistics and expected to graduate May 2024. I will be going into a PhD program for Psychology where I will continue to explore the interaction of early-life stress and addiction-like behavior (e.g., gambling, nicotine use, alcohol use disorder, substance use disorder, etc.,). My overall goal is to reduce addictive-like behavior in populations with higher risk. 
+
+<p></p>
+
+## Main Projects
+
+### Impulsivity in Early-Life Stress Paradigms  
+
+
+
+### The Effect of Extra Enrichment on Behavior in the Limited Bedding and Nesting Paradigm  
+
+
+
+
+### Precrastination Behavior in Humans and Non-Humans  
+
+
+
+### Limited Bedding and Nesting Paradigm: A model for Chronic Early-Life Stress
+
+The Limited Bedding and Nesting (LBN) Paradigm is a model for chronic early-life stress where reducing the amount of material for the dam to nest with results in increased levels of fragmentation (i.e., early-life stress) and is done between postnatal day 2-9. I physically conducted this research starting in June 2022 and finished data collection in December 2022. Over this period we did a plethora of tests including rotarod, open-field, elevated plus maze, 3 chamber social, y-maze, marble burying, but my main task interests were measures of learning (lever-press learning), impulsive choice (delay discounting), and impulsive action (DRL schedule).  
+
+#### Peer-Reviewed Conference Presentations 
+
+Thieret, B. A. S. & Fox, A. E. (2023, August 3-5). *Learning and Memory in The Limited Bedding and Nesting Paradigm* [Poster presentation]. American Psychological Association Annual Conference, D.C., United States. [https://www.xcdsystem.com/apa/program/pbf12ke/index.cfm?pgid=760](https://www.xcdsystem.com/apa/program/pbf12ke/index.cfm?pgid=760){target="_blank"}  
+
+
+Thieret, B. A. S. & Fox, A. E. (2023, May 25-26). *Learning in the Limited Bedding and Nesting Paradigm* [Poster presentation]. Society of Quantitative Analysis of Behavior Conference, Denver, CO, United States. [https://www.sqab.org/conference#:~:text=viewing%20and%20download-,here,-](https://www.sqab.org/conference#:~:text=viewing%20and%20download-,here,-)  
+
+Thieret, B. A. S., Wilson, K., Bergeron, J., Fox, A. E. (2023, March 2-4). *Impulsive Choice and Action in the Limited Bedding and Nesting Paradigm* [Poster presentation]. Eastern Psychological Association Annual Conference, Boston, MA, United States. [https://www.easternpsychological.org/files/DOCUMENTLIBRARY/EPA-Program_1-30-2023_FINAL.pdf](https://www.easternpsychological.org/files/DOCUMENTLIBRARY/EPA-Program_1-30-2023_FINAL.pdf)  
+
+
+### FMR1 KO Rat Model  
+
+The FMR1 KO rat is a genetically modified animal model for Fragile X Syndrome which is a commodity for Autism Spectrum Disorder (ASD) (Males = 50-75%, Females = 25%). This project was the first project I worked on in the lab helping a senior in the Spring of 2022, but continued as the lead researcher on the project over the Summer of 2022. During the Spring a temporal bisection task and delay discounting task were done and over the Summer a progressive ratio schedule was tested along with a short-term memory task.  
+
+#### Peer-Reviewed Conference Presentations  
+
+Thieret, B. A. S.,  DeCoteau, W. E. & Fox, A. E. (2023, May 25-29). *Choice, timing, motivation, and memory in the FMR1 KO rat* [Poster presentation]. Association for Behavior Analysis International Annual Conference, Denver, CO, United States. [https://www.abainternational.org/events/program-details/event-detail.aspx?sid=82739&by=ByArea#s206G_106](https://www.abainternational.org/events/program-details/event-detail.aspx?sid=82739&by=ByArea#s206G_106){target="_blank"}  
+
+Fox, A. E., Thieret, B. A. S., DeCoteau, W. E. (2023, March 2-4). Characterizing Operant Behavior in the FMR1 Knockout Rat [Altered States]. Eastern Psychological Association Annual Conference, Boston, MA, United States. [https://www.easternpsychological.org/files/DOCUMENTLIBRARY/EPA-Program_1-30-2023_FINAL.pdf](https://www.easternpsychological.org/files/DOCUMENTLIBRARY/EPA-Program_1-30-2023_FINAL.pdf)
+
+Cooper, A., Thieret, B., Tobias-Wallingford, H., DeCoteau, W. E., Fox, A. E. (2022, May 26-28). Timing and Impulsive Choice in the FMR1 Knockout Rat [Poster presentation]. Society of Quantitative Analysis of Behavior Conference, Boston, MA, United States. [https://www.sqab.org/programs/2022.pdf](https://www.sqab.org/programs/2022.pdf)   
+
+
+
+
+## Publication
+
+Fox, A. E., Nicholson, A. M., Singha, D., Thieret, B. A. S., Ortiz, M., Visser, E. J. (2023). Timing and delay discounting in attention-deficit hyperactivity disorder: A translational approach. *Developmental Psychobiology, 65*(5).[https://doi.org/10.1002/dev.22399](https://doi.org/10.1002/dev.22399){target="_blank"}
+
+
+
+
+

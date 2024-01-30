@@ -1,0 +1,21 @@
+project:
+  type: website
+  resources:
+    - CV.pdf
+
+website:
+  title: "Bryana A.S. Thieret"
+  description: "Technology and the Environment"
+  open-graph:
+    locale: en_US
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Papers"
+        href: papers
+      - text: "Presentations"
+        href: presentations
+format:
+  html:
+    theme: minty
